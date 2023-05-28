@@ -1,0 +1,15 @@
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\bin\Debug\net6.0\jewel_collector.exe
+d:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\bin\Debug\net6.0\jewel_collector.deps.json
+d:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\bin\Debug\net6.0\jewel_collector.runtimeconfig.json
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\bin\Debug\net6.0\jewel_collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\bin\Debug\net6.0\jewel_collector.pdb
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.csproj.AssemblyReference.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.GeneratedMSBuildEditorConfig.editorconfig
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.AssemblyInfoInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.AssemblyInfo.cs
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.csproj.CoreCompileInputs.cache
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\refint\jewel_collector.dll
+D:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.pdb
+d:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\jewel_collector.genruntimeconfig.cache
+d:\Curso Unicamp\Tecnologias Microsoft\C#\inf0990_projeto_final\programa\obj\Debug\net6.0\ref\jewel_collector.dll
