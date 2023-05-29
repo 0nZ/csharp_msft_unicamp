@@ -1,4 +1,5 @@
 ﻿using System;
+//Alteração realizada na branch_vaz_1
 namespace Jewel_Collector 
 {
     public class JewelCollector {
