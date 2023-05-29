@@ -1,4 +1,5 @@
 ﻿using System;
+//Alteração realizada na branch_vaz_1
 namespace Jewel_Collector 
 {
     //Alteração realizada na branch_vaz_2
@@ -12,7 +13,8 @@ namespace Jewel_Collector
             do 
             {
                 
-                //Outro comentário da branch 2
+
+                //Outro comentário da branch 2 - Conflito resolvido
                 ConsoleKeyInfo cki;
                 cki = Console.ReadKey();
 
