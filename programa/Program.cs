@@ -12,6 +12,7 @@ namespace Jewel_Collector
             do 
             {
                 
+                //Outro comentário da branch 2
                 ConsoleKeyInfo cki;
                 cki = Console.ReadKey();
 
